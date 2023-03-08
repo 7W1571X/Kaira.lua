@@ -1,6 +1,6 @@
 local Kaira = {
     _VERSION       = 'Kaira 0.0.1',
-    _URL           = 'https://github.com/Twis7ed/Kaira',
+    _LINK          = 'https://github.com/Twis7ed/Kaira',
     _DESCRIPTION   = 'Anti-aimbot Lua for https://legions.win/.',
     _LICENSE       = [[
         Kaira (c) by Twis7ed
